@@ -9,6 +9,7 @@
 class foo {
 private:
     int i;
+    int l;
 };
 
 
