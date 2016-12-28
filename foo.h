@@ -7,7 +7,8 @@
 
 
 class foo {
-
+private:
+    int i;
 };
 
 
